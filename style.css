@@ -106,3 +106,18 @@ section{
     font-weight: 700;
     font-size: 20px;
 }
+
+@media (max-width:800px) {
+
+    .logo{
+        width: 30%;
+        height: 30%;
+    }
+    
+    main{
+        width: 50%;
+        height: 50%;
+    }
+
+
+}

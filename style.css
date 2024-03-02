@@ -18,6 +18,7 @@ body{
     display: block;
     margin: 20px auto;
 }
+
 main{
     width: 375px;
     background-color: #F4F4F4;
@@ -109,17 +110,13 @@ section{
     font-size: 20px;
 }
 
-@media (max-width:800px) {
-
+@media (max-width: 786px){
     .logo{
-        width: 30%;
-        height: 30%;
+        width: 20%;
+        height: 20%;
     }
-    
+
     main{
-        width: 70%;
-        height: 70%;
+        width: 90%;
     }
-
-
 }
